@@ -1,4 +1,4 @@
-# FinHisaab MCP Server
+# FinHisaab PSX MCP Server
 
 **FinHisaab MCP** connects compatible AI assistants and developer tools to factual Pakistan Stock Exchange (PSX) research. It is a hosted, read-only [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) service for exploring Pakistani stocks, market activity, mutual funds, company announcements, and related economic data.
 
